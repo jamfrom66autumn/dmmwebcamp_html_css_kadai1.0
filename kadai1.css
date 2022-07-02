@@ -94,7 +94,8 @@ footer {
     margin-top: 20px;
     margin-left: 0;
     margin-right: 0;
-    width: 90%;   
+    width: 90%;
+    box-sizing: border-box; #change this to 90% includes padding
   }
   .step-box:last-child{
     margin-left: 0;
@@ -120,3 +121,4 @@ footer {
     width: 100%;
   }
 }
+
